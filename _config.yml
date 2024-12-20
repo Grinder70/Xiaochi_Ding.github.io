@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Xiaochi Ding"
 description              : &description "Master student at Tsinghua University specializing in optimization and control"
 url                      : https://Grinder70.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/Xiaochi_Ding.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Grinder70/Xiaochi_Ding.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
